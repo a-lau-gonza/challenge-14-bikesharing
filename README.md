@@ -9,31 +9,32 @@
 ## Results
 * 
 
-![Homepage](Write-Up_Resources/Customer_Type.png)
+###
+![Customer Type](Write-Up_Resources/Customer_Type.png)
 
 * 
 
-![Homepage](Write-Up_Resources/Checkout_Users.png)
+![Checkout Times for Users](Write-Up_Resources/Checkout_Users.png)
 
 * 
 
-![Homepage](Write-Up_Resources/Checkout_Gender.png)
+![Checkout Times by Gender](Write-Up_Resources/Checkout_Gender.png)
 
 * 
 
-![Homepage](Write-Up_Resources/Trips_Weekday_by_Hour.png)
+![Trips by Weekday per Hour](Write-Up_Resources/Trips_Weekday_by_Hour.png)
 
 * 
 
-![Homepage](Write-Up_Resources/Trips_by_Gender_WD.png)
+![Trips by Gender (Weekday per Hour)](Write-Up_Resources/Trips_by_Gender_WD.png)
 
 * 
 
-![Homepage](Write-Up_Resources/User_Trips_by_Gender_WD.png)
+![User Trips by Gender (By Weekday)](Write-Up_Resources/User_Trips_by_Gender_WD.png)
 
 * 
 
-![Homepage](Write-Up_Resources/Bike_Repairs.png)
+![Bike Repairs](Write-Up_Resources/Bike_Repairs.png)
 
 * 
 
